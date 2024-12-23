@@ -1,13 +1,3 @@
-[
-  {
-    "chainId": 101,
-    "address": "3ktQNv8ELGGrJxQytnMR2JMzmUrTvswtbG538xT4visY",
-    "symbol": "GAE",
-    "name": "GAE token coin",
-    "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ktQNv8ELGGrJxQytnMR2JMzmUrTvswtbG538xT4visY/logo.png",
-    "tags": ["utility-token"]
-  },
   {
     "chainId": 101,
     "address": "5fmWLL99H1a3bBoPTtE4mCEWL8eXV5NA2TkExCW7vzWV",
