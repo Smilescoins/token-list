@@ -4,10 +4,11 @@
   "symbol": "SMILES",
   "name": "SmilesCoins",
   "decimals": 6,
-  "logoURI": "https://avatars.githubusercontent.com/u/191040101?v=4",
+  "logoURI": "https://raw.githubusercontent.com/Smilescoins/SMILES/main/assets/mainnet/5fmWLL99H1a3bBoPTtE4mCEWL8eXV5NA2TkExCW7vzWV/logo.png",
   "tags": ["utility-token"],
   "extensions": {
     "twitter": "https://twitter.com/smilescoins",
     "website": ""
   }
 }
+
